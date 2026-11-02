@@ -21,17 +21,25 @@ This repository exists because apparently, deleting things is not an option. So 
 Well, this isn't the main attraction.
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/rascal46">
     <img src="https://img.shields.io/badge/Visit%20My%20Main%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="Main GitHub Profile"/>
   </a>
 </p>
 
-### 🌌 That's about it!
-
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="180" alt="Waving"/>
+Or even better, meet the actual human!
 
 <p align="center">
-  <i>"Not everything needs a purpose. Some things just need a backup."</i>
+ <a href="https://www.instagram.com/itz_tirtho_2_u/">
+  <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+</p>
+
+### 🌌 That's about it!
+
+<img align="center" src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="180" alt="Waving"/>
+
+<p align="center">
+  <i>"It's not hoarding if your shit's cool."</i>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7B2FF7&height=120&section=footer" width="100%" />
